@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing-Build/TextureProcessing/TextureProcessingCLP.h"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/Plot/HistogramPlot.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/Percents/PercentileCalc.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/Features/HistoFeat.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/CoocurrenceFeat/CoocurrenceFeat.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/ShapeFeatures/ShapeFeat.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/RunLengthFeat/RunLengthFeat.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/Normalization/Normalize.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/Gradient/GradientFeat.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing/TextureProcessing.cxx"
+		},
+		
+		{
+			"file" : "/home/leonardo/Desktop/Modulos-Source/Modulos_to_Slicer/CSIM/TextureProcessing-Build/TextureProcessing/TextureProcessingCLP.h.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "TextureProcessing" ],
+		"name" : "TextureProcessingLib"
+	}
+}
