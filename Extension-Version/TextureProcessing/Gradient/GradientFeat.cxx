@@ -1,6 +1,6 @@
 #include "GradientFeat.h"
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 #include "itkImageFileWriter.h"
 #include "itkLabelImageToStatisticsLabelMapFilter.hxx"

@@ -1,7 +1,7 @@
 #ifndef RUNLENGHFEAT_H
 #define RUNLENGHFEAT_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 

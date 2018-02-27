@@ -1,7 +1,7 @@
 #ifndef HISTOFEAT_H
 #define HISTOFEAT_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 

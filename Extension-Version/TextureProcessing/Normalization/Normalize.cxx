@@ -1,6 +1,6 @@
 #include "Normalize.h"
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 #include "itkImageRegionIterator.h"
 #include "itkLabelImageToStatisticsLabelMapFilter.h"

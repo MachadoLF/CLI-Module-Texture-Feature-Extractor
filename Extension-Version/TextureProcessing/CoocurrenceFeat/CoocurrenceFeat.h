@@ -1,7 +1,7 @@
 #ifndef COOCURRENCEFEAT_H
 #define COOCURRENCEFEAT_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 

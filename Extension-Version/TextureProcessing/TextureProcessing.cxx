@@ -1,7 +1,7 @@
 #include "itkPluginUtilities.h"
 #include "TextureProcessingCLP.h"
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 #include "itkImageFileWriter.h"
 #include <itkImageDuplicator.h>

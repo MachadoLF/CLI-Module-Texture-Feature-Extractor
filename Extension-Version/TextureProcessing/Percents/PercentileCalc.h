@@ -1,7 +1,7 @@
 #ifndef PERCENTILECALC_H
 #define PERCENTILECALC_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 

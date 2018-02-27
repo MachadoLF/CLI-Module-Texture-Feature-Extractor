@@ -1,6 +1,6 @@
 #include "HistogramPlot.h"
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 //#include <TextureProcessing/Global.h>
 #include <itkImageRegionIterator.h>
 
