@@ -1,7 +1,7 @@
 #ifndef GRADIENTFEAT_H
 #define GRADIENTFEAT_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 

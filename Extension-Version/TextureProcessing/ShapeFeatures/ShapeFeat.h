@@ -1,7 +1,7 @@
 #ifndef SHAPEFEAT_H
 #define SHAPEFEAT_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 

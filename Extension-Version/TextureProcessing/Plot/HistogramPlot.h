@@ -1,7 +1,7 @@
 #ifndef HISTOGRAMPLOT_H
 #define HISTOGRAMPLOT_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 

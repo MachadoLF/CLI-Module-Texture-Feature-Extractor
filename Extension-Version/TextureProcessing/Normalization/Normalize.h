@@ -1,7 +1,7 @@
 #ifndef NORMALIZE_H
 #define NORMALIZE_H
 
-#include <../../TextureProcessing/Global.h>
+#include "Global.h"
 
 using namespace std;
 
